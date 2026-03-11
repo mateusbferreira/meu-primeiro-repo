@@ -1,5 +1,5 @@
 # meu-primeiro-repo
-# Perfil de [Mateus]
+# Perfil de [Mateus Borges]
 ## Sobre mim
 - Estudante de [Desenvolvimento de Sistema]
 - Aprendendo Git e GitHub
